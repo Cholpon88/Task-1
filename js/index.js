@@ -21,8 +21,8 @@ console.log(simpleText);
 
 function nameMail() {
     alert(`
-    Имя: Чолпон
-    Почта: чолпон.медеткулова.kk@gmail.com.
+    Имя: Cholpon
+    Почта:cholpon.medetkulova.kk@gmail.com.
     `)
 }
 nameMail();
