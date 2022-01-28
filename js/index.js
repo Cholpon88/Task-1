@@ -34,10 +34,15 @@
 
 // № 2
 //document.write("<strong>Задача №2 </strong><br>");
-// let message = 'Hello!'; 
+let showText = 'Lets do it';
+console.log(showText);
+document.write(showText);
+alert(showText)
 
-// alert(message);
-
+showText = 'I can do!';
+console.log(showText);
+document.write(showText);
+alert(showText)
 // № 3
 //document.write("<strong>Задача №3 </strong><br>");
 // let userName = prompt("Ваше имя ?", "Cholpon");
